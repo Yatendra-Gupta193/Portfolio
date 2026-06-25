@@ -1,5 +1,5 @@
 // Select the menu button and sidebar
-const menuBtn = document.querySelector(".menuBtn");
+const menuBtn = document.querySelector(".menuBtn"); 
 const sidebar = document.querySelector(".sidebar");
 const menuIcon = document.querySelector(".menuBtn img")
 
